@@ -1,0 +1,11 @@
+If you have any questions, please contact Penguin Group, 78769032
+
+Development log:
+V01-202020707
+first version completed
+
+V02-2020207011
+1.10uh inductor replaced by 0805 package
+2. The antenna part complements the official recommended matching network
+3.32mhz crystal oscillator changed the package
+4. 014, 016, 018 are reset
